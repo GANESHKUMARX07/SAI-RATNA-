@@ -1,0 +1,6 @@
+{
+  "name": "Ratna Restaurant — Handcrafted Indian Cuisine & Menu",
+  "description": "Experience the handcrafted handwritten menu and culinary heritage of Ratna Restaurant. Authentic Hyderabadi Dum Biryani, Tandoori specialties, rich curries, and artisanal desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
